@@ -1,12 +1,17 @@
-### 🩵 Olá, mundo! Me chamo Andressa Henning  👋
+## 🩵 Olá, mundo! Me chamo Andressa Henning  👋
 
 🌐 Minhas redes sociais:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andressahenning)
 
-![Andressa GitHub stats](https://github-readme-stats.vercel.app/api?username=andressahenning&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andressahenning&layout=compact&icons=true&theme=tokyonight)
+##
 
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andressahenning&show_icons=true&theme=tokyonight">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressahenning&layout=compact&icons=true&theme=tokyonight">
+</div>
+
+##
 
 🖥️ Tech Stack:
 
