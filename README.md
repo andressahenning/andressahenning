@@ -1,8 +1,8 @@
-## 🩵 Olá, mundo! Me chamo Andressa Henning  👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A555EC&height=65"/>
 
-🌐 Minhas redes sociais:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0079FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!;My+name+is+Andressa+Henning;I'm+from+Brazil;I'm+studing+web+developing;I'm+a+gamer+...;Reader+...;and+a+teacher!;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andressahenning)
+<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andressahenning&bg_color=0d1117&color=70A5F6&line=563D7C&point=BF91F3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
 ##
 
@@ -10,6 +10,12 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andressahenning&show_icons=true&theme=tokyonight">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressahenning&layout=compact&icons=true&theme=tokyonight">
 </div>
+
+##
+
+🌐 Minhas redes sociais:
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andressahenning)
 
 ##
 
