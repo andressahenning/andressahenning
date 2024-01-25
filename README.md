@@ -23,7 +23,7 @@
 ##
 
 ### Projetos:
-  - [JavaScript](https://andressahenning.github.io/projeto-tabuada/)
+  - [JavaScript - Consultor de tabuada](https://andressahenning.github.io/projeto-tabuada/)
   - [HTML5 e CSS3 - Anna Bella](https://andressahenning.github.io/projeto-modelo/index.html)
   - [HTML5 e CSS3 - Cordel](https://andressahenning.github.io/projeto-cordel/index.html)
 
@@ -32,3 +32,7 @@
 ### 🌐 Minhas redes sociais:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andressahenning)
+
+##
+
+[![](https://visitcount.itsvg.in/api?id=andressahenning&icon=5&color=1)](https://visitcount.itsvg.in)
