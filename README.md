@@ -29,9 +29,9 @@
 ##
 
 ### Projetos:
+  - [Grunt, JS, LESS, HTML5 - Sorteador de números](https://sorteador-grunt-andressa.vercel.app/)
+  - [HTML5 e Bootstrap - DesbravaMundo](https://desbrava-mundo-seven.vercel.app/)
   - [JavaScript - Consultor de tabuada](https://andressahenning.github.io/projeto-tabuada/)
-  - [HTML5 e CSS3 - Anna Bella](https://andressahenning.github.io/projeto-modelo/index.html)
-  - [HTML5 e CSS3 - Cordel](https://andressahenning.github.io/projeto-cordel/index.html)
 
 ##
 
