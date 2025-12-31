@@ -2,13 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!;My+name+is+Andressa+Henning;I'm+from+Brazil;I'm+studing+web+developing;I'm+a+gamer+...;Reader+...;and+a+teacher!;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andressahenning&bg_color=0d1117&color=70A5F6&line=563D7C&point=BF91F3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andressahenning&bg_color=0d1117&color=70A5F6&line=563D7C&point=BF91F3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
 ##
 
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andressahenning&show_icons=true&theme=tokyonight">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressahenning&layout=compact&icons=true&theme=tokyonight">
+<div align="center">
+  <!--<img height="150em" src="https://github-readme-stats-two-swart-48.vercel.app/api?theme=dark&include_all_commits=true&count_private=true&username=andressahenning&show_icons=true"/>-->
+  <img height="200em" src="https://github-readme-stats-two-swart-48.vercel.app/api/top-langs/?username=andressahenning&layout=compact&langs_count=8&theme=dark&hide=jupyter%20notebook,cmake,blade,vhdl,c,swift,makefile,shell,kotlin,dockerfile,objective-c"/>
 </div>
 
 ##
